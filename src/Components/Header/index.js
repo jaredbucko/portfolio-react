@@ -1,21 +1,22 @@
 import React from "react";
 // import { Link } from "react-router-dom";
+import "./style.css";
 
 function Header() {
     return (
-      <div>
+      <div className="mb-4">
         <div>
-          <h3 className="text-center mt-5 m-4">Jared Bucko</h3>
+          <h2 className="text-center mt-5 m-4" id="title">Jared Bucko</h2>
         </div>
         <ul className="nav justify-content-center">
           <li>
-            <h5 className="nav-item mt-4 ml-5 mr-5">About</h5>
+            <h4 className="nav-item mt-4 ml-3 mr-3">About</h4>
           </li>
           <li>
-            <h5 className="nav-item mt-4 ml-5 mr-5">Portfolio</h5>
+            <h4 className="nav-item mt-4 ml-3 mr-3">Portfolio</h4>
           </li>
           <li>
-            <h5 className="nav-item mt-4 ml-5 mr-5">Contact</h5>
+            <h4 className="nav-item mt-4 ml-3 mr-3">Contact</h4>
           </li>
         </ul>
       </div>
