@@ -1,14 +1,24 @@
 import React from "react";
 // import { Link } from "react-router-dom";
-import "./style.css";
 
 function Header() {
     return (
-      <nav className="navbar navbar-expand-lg navbar-light bg-light">
+      <div>
         <div>
-          <h1>Jared's sweet portfolio page</h1>
+          <h3 className="text-center mt-5 m-4">Jared Bucko</h3>
         </div>
-      </nav>
+        <ul className="nav justify-content-center">
+          <li>
+            <h5 className="nav-item mt-4 ml-5 mr-5">About</h5>
+          </li>
+          <li>
+            <h5 className="nav-item mt-4 ml-5 mr-5">Portfolio</h5>
+          </li>
+          <li>
+            <h5 className="nav-item mt-4 ml-5 mr-5">Contact</h5>
+          </li>
+        </ul>
+      </div>
     );
   }
   
