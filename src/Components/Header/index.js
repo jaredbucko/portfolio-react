@@ -5,18 +5,19 @@ import "./style.css";
 function Header() {
     return (
       <div className="mb-4">
+        <div id="spacer"></div>
         <div>
-          <h2 className="text-center mt-5 m-4" id="title">Jared Bucko</h2>
+          <h1 className="text-center mt-4 m-4" id="title">Jared Bucko</h1>
         </div>
         <ul className="nav justify-content-center">
-          <li>
-            <h4 className="nav-item mt-4 ml-3 mr-3">About</h4>
+          <li className="navItem">
+            <h3 className="nav-item mt-2 ml-2 mr-2 text-center">About</h3>
           </li>
-          <li>
-            <h4 className="nav-item mt-4 ml-3 mr-3">Portfolio</h4>
+          <li className="navItem">
+            <h3 className="nav-item mt-2 ml-2 mr-2 text-center">Portfolio</h3>
           </li>
-          <li>
-            <h4 className="nav-item mt-4 ml-3 mr-3">Contact</h4>
+          <li className="navItem">
+            <h3 className="nav-item mt-2 ml-2 mr-2 text-center">Contact</h3>
           </li>
         </ul>
       </div>
