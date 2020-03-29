@@ -14,6 +14,7 @@ function Contact() {
                     <li className="list-group-item text-center"><a href="https://www.linkedin.com/in/jaredbucko"><i class="fab fa-linkedin"></i> LinkedIn</a></li>
                     <li className="list-group-item text-center"><a href="https://www.github.com/jaredbucko"><i class="fab fa-github"></i> GitHub</a></li>
                     <li className="list-group-item text-center"><a href="https://www.twitter.com"><i class="fab fa-twitter"></i> Twitter</a></li>
+                    <li className="list-group-item text-center"><a href="https://www.twitter.com"><i class="fab fa-twitter"></i> Email</a></li>
                 </ul>
                 </div>
           </div>
