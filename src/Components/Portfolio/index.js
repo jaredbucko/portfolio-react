@@ -6,7 +6,9 @@ function Portfolio() {
     return (
       <div>
           <h2 className="text-center mt-4 mb-4">Portfolio</h2>
-          <ProjectCard />
+          <div className="d-flex justify-content-center">
+            <ProjectCard />
+          </div>
       </div>
     );
   }
