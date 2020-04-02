@@ -4,7 +4,6 @@ import Header from './components/Header';
 import Spacer from './components/Spacer';
 import Body from './components/Body';
 import Footer from './components/Footer';
-import './App.css';
 
 function App() {
   return (
