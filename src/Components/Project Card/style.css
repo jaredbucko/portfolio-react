@@ -9,3 +9,8 @@
 .btn:hover {
     background-color: #00a8cc;
 }
+
+.projectCol {
+    padding-top: 15px;
+    padding-bottom: 15px;
+}

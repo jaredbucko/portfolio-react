@@ -5,7 +5,7 @@ import Contact from "../Contact";
 
 function Body() {
     return (
-      <div className="container">
+      <div>
         <About />
         <Portfolio />
         <Contact />

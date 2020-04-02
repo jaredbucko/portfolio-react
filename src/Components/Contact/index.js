@@ -3,10 +3,10 @@ import "./style.css";
 
 function Contact() {
     return (
-      <div id="contactSection">
+      <div className="container" id="contactSection">
           <h2 className="text-center mt-4 mb-4">Contact</h2>
           <div className="d-flex justify-content-center">
-            <div className="card" style={{width: "18rem"}}>
+            <div className="card" style={{width: "36rem"}}>
                 <div className="card-header text-center">
                     @ me on...
                 </div>
