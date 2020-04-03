@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.af3a3ff7.chunk.css",
+    "main.js": "/static/js/main.97de9302.chunk.js",
+    "main.js.map": "/static/js/main.97de9302.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.d30687ad.js",
+    "runtime-main.js.map": "/static/js/runtime-main.d30687ad.js.map",
+    "static/js/2.f05b8b1e.chunk.js": "/static/js/2.f05b8b1e.chunk.js",
+    "static/js/2.f05b8b1e.chunk.js.map": "/static/js/2.f05b8b1e.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.8d821e702793399be47d06add9020d04.js": "/precache-manifest.8d821e702793399be47d06add9020d04.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.af3a3ff7.chunk.css.map": "/static/css/main.af3a3ff7.chunk.css.map",
+    "static/js/2.f05b8b1e.chunk.js.LICENSE.txt": "/static/js/2.f05b8b1e.chunk.js.LICENSE.txt",
+    "static/media/aboutme.jpeg": "/static/media/aboutme.a3ffafab.jpeg",
+    "static/media/burger-journal.png": "/static/media/burger-journal.3ab827ce.png",
+    "static/media/day-planner.png": "/static/media/day-planner.6ce638a5.png",
+    "static/media/employee-directory.png": "/static/media/employee-directory.e872b55d.png",
+    "static/media/pass-the-remote.png": "/static/media/pass-the-remote.94ad9ba9.png",
+    "static/media/star-gazer.png": "/static/media/star-gazer.99671574.png",
+    "static/media/weather.png": "/static/media/weather.a751f022.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d30687ad.js",
+    "static/js/2.f05b8b1e.chunk.js",
+    "static/css/main.af3a3ff7.chunk.css",
+    "static/js/main.97de9302.chunk.js"
+  ]
+}
